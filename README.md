@@ -91,7 +91,7 @@ Repo hiện có cấu trúc chính như sau:
 
 ### 1) Clone repository
 ```bash
-git clone https://github.com/loanhviet/BaiTapLonCSharp.git
+git clone https://github.com/loanhviet/inventory-management-csharp
 ```
 
 ### 2) Mở solution bằng Visual Studio
@@ -185,4 +185,4 @@ Một số hướng nâng cấp (tùy nhu cầu):
 
 ## Tác giả
 - GitHub: https://github.com/loanhviet
-- Repo: https://github.com/loanhviet/BaiTapLonCSharp](https://github.com/loanhviet/inventory-management-csharp
+- Repo: https://github.com/loanhviet/inventory-management-csharp
