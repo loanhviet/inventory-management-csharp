@@ -185,4 +185,4 @@ Một số hướng nâng cấp (tùy nhu cầu):
 
 ## Tác giả
 - GitHub: https://github.com/loanhviet
-- Repo: https://github.com/loanhviet/BaiTapLonCSharp
+- Repo: https://github.com/loanhviet/BaiTapLonCSharp](https://github.com/loanhviet/inventory-management-csharp
